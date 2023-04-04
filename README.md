@@ -1,3 +1,12 @@
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ichaush3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ichaush3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ichaush3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ichaush3" height="30" width="40" /></a>
+<a href="https://fb.com/ichaush3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ichaush3" height="30" width="40" /></a>
+<a href="https://instagram.com/ichaush3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ichaush3" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ichaush3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ichaush3" height="30" width="40" /></a>
+</p>
+
 # Chrome_Browser_Extension Using ![](https://img.shields.io/badge/Tool-ChatGPT-blue)
 
 ## Step 1 
@@ -103,14 +112,3 @@ Upload your all 3 file
 
 ![](https://github.com/ibasloom/Chrome_browser_extension/blob/main/Images/Chrome%20browser%20extension%20that%20displays%20the%20current%20date%20and%20time.png)
 
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ichaush3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ichaush3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ichaush3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ichaush3" height="30" width="40" /></a>
-<a href="https://fb.com/ichaush3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ichaush3" height="30" width="40" /></a>
-<a href="https://instagram.com/ichaush3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ichaush3" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@ichaush3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ichaush3" height="30" width="40" /></a>
-</p>
