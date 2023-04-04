@@ -89,4 +89,9 @@ function updateDateTime() {
 ```
 ## Step 5 
 
+![Go To Chrome browser](https://github.com/ibasloom/Chrome_browser_extension/blob/main/Images/extension.png)
+![Manage extension](https://github.com/ibasloom/Chrome_browser_extension/blob/main/Images/mng%20extension.png)
+![b4](https://github.com/ibasloom/Chrome_browser_extension/blob/main/Images/b4%20dme.png)
+![After](https://github.com/ibasloom/Chrome_browser_extension/blob/main/Images/after%20dme.png)
+
 ## Step 6 
