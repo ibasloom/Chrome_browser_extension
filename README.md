@@ -95,3 +95,10 @@ function updateDateTime() {
 ![After](https://github.com/ibasloom/Chrome_browser_extension/blob/main/Images/after%20dme.png)
 
 ## Step 6 
+
+Upload your all 3 file 
+![](https://img.shields.io/badge/Extension-json-blue)
+![](https://img.shields.io/badge/Extension-HTML-blue)
+![](https://img.shields.io/badge/Extension-js-blue)
+
+![](https://github.com/ibasloom/Chrome_browser_extension/blob/main/Images/Chrome%20browser%20extension%20that%20displays%20the%20current%20date%20and%20time.png)
