@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/ibasloom/Chrome_browser_extension/blob/main/Images/gifnew.gif)
+![MasterHead](https://github.com/ibasloom/Chrome_browser_extension/blob/main/Images/newgif.gif)
 <h3 align="left">Connect with me @ichaush3 :</h3>
 <p align="left">
 <a href="https://twitter.com/ichaush3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ichaush3" height="30" width="40" /></a>
