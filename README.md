@@ -112,5 +112,5 @@ Upload your all 3 file
 <a href="https://linkedin.com/in/ichaush3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ichaush3" height="30" width="40" /></a>
 <a href="https://fb.com/ichaush3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ichaush3" height="30" width="40" /></a>
 <a href="https://instagram.com/ichaush3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ichaush3" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ichaush3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ichaush3" height="30" width="40" /></a>
+<a href="https://www.youtube.com/ichaush3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ichaush3" height="30" width="40" /></a>
 </p>
